@@ -2,9 +2,9 @@
 ## Materials for the UQ course at KTH, Dec 2020
 
 ## Required packages
-For the hands-out, please install the followings:
+For the hands-on exercises, please install the followings:
 
-* Option 1, Install the following packages indiviually:
+* Option 1, Install the following packages individually:
   - [`Python3`](https://www.python.org/downloads/)   
   - [`numpy`](https://numpy.org/install/)
   - [`scipy`](https://www.scipy.org/install.html)
